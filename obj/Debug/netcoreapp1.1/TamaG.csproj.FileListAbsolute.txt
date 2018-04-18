@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Tamagotchi/bin/Debug/netcoreapp1.1/TamaG.deps.json
+/Users/Guest/Desktop/Tamagotchi/bin/Debug/netcoreapp1.1/TamaG.runtimeconfig.json
+/Users/Guest/Desktop/Tamagotchi/bin/Debug/netcoreapp1.1/TamaG.runtimeconfig.dev.json
+/Users/Guest/Desktop/Tamagotchi/bin/Debug/netcoreapp1.1/TamaG.dll
+/Users/Guest/Desktop/Tamagotchi/bin/Debug/netcoreapp1.1/TamaG.pdb
+/Users/Guest/Desktop/Tamagotchi/obj/Debug/netcoreapp1.1/TamaG.AssemblyInfo.cs
+/Users/Guest/Desktop/Tamagotchi/obj/Debug/netcoreapp1.1/TamaG.dll
+/Users/Guest/Desktop/Tamagotchi/obj/Debug/netcoreapp1.1/TamaG.pdb
